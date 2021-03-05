@@ -26,8 +26,8 @@ Abschlussnote: 1,3 <br>
 - Detailierte Modellierung des Stromnetzes von Bremerhaven <br>
 - Aufbau einer Capture-The-Flag Architektur mit RL-Agenten, die das Stromnetz entweder angreifen oder verteidigen sollen
 
-**3. AR/VR:** ...
-**4. Android-App:** ...
+**3. AR/VR:** ... <br>
+**4. Android-App:** ... <br>
 
 **2015-2018: Bachelor of Science, Informatik **<br>
 [Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
