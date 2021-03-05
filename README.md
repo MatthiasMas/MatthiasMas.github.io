@@ -13,9 +13,14 @@ LinkedIn: <br>
 
 ## Ausbildung
 
-**2018-2021**: Master of Science, Informatik - Schwerpunkt: Künstliche Intelligenz <br>
+**2018-2021**: Master of Science, Informatik <br>
+Schwerpunkt: Künstliche Intelligenz <br>
 [Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
 Abschlussnote: 1,3 
+1. Masterarbeit: Learn to Imitate - A Framework for Exploring Imitation Learning: <br>
+Trainieren eines Roboters in typischen Haushaltsszenarien innerhalb der "MuJoCo"-Simulationsumgebung <br>
+Einsatz von Reinforcement Learning (RL) und Imitation Learning (IL) Methoden
+
 
 **2015-2018**: Bachelor of Science, Informatik <br>
 [Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
