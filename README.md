@@ -13,7 +13,7 @@ LinkedIn: <br>
 
 ## Ausbildung
 
-**2018-2021**: Master of Science, Informatik <br>
+**2018-2021: Master of Science, Informatik** <br>
 Schwerpunkt: Künstliche Intelligenz <br>
 [Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
 Abschlussnote: 1,3 <br>
@@ -29,14 +29,14 @@ Abschlussnote: 1,3 <br>
 **3. AR/VR:** ...
 **4. Android-App:** ...
 
-**2015-2018**: Bachelor of Science, Informatik <br>
+**2015-2018: Bachelor of Science, Informatik **<br>
 [Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
 Abschlussnote: 1,56
 
-**2012-2014**: Studium Bauingenieurwesen <br>
+**2012-2014: Studium Bauingenieurwesen **<br>
 [Technische Universität Braunschweig](https://www.tu-braunschweig.de/) <br>
 
-**2010-2012**: Oberstufe und Abitur <br>
+**2010-2012: Oberstufe und Abitur **<br>
 [Ubbo-Emmius-Gymnasium](https://www.ueg-leer.de/) in 26789 Leer
 
 
