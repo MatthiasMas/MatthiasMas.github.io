@@ -1,29 +1,32 @@
 # Matthias Maszuhn
 
 Artillerieweg 42A <br>
-
 26129 Oldenburg <br>
-
 Tel: <br>
-
 E-Mail: <matthias.maszuhn@googlemail.com> <br>
-
 Geboren am 10.08.1993 in Dinslaken <br>
-
 Staatsangehörigkeit: Deutsch <br>
-
 Ledig <br>
-
 Github: <br>
-
 LinkedIn: <br>
 
 
-## Welcome to GitHub Pages
+## Ausbildung
 
-You can use the [editor on GitHub](https://github.com/MatthiasMas/MatthiasMas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**2018-2021**: Master of Science, Informatik - Schwerpunkt: Künstliche Intelligenz <br>
+[Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
+Abschlussnote: 1,3 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**2015-2018**: Bachelor of Science, Informatik <br>
+[Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
+Abschlussnote: 1,56
+
+**2012-2014**: Studium Bauingenieurwesen <br>
+[Technische Universität Braunschweig](https://www.tu-braunschweig.de/) <br>
+
+**2010-2012**: Oberstufe und Abitur <br>
+[Ubbo-Emmius-Gymnasium](https://www.ueg-leer.de/) in 26789 Leer
+
 
 ### Markdown
 
