@@ -17,16 +17,16 @@ LinkedIn: <br>
 Schwerpunkt: Künstliche Intelligenz <br>
 [Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
 Abschlussnote: 1,3 
-1. **Masterarbeit: Learn to Imitate - A Framework for Exploring Imitation Learning:** <br>
+**1. Masterarbeit: Learn to Imitate - A Framework for Exploring Imitation Learning:** <br>
 - Trainieren eines Roboters in typischen Haushaltsszenarien innerhalb der "MuJoCo"-Simulationsumgebung <br>
 - Einsatz von Reinforcement Learning (RL) und Imitation Learning (IL) Methoden
 
-2. **Projektgruppe: Adversarial Resilience Learning: Einsatz von künstlicher Intelligenz zum Angriff sicherheitskritischer CPS** <br>
+**2. Projektgruppe: Adversarial Resilience Learning: Einsatz von künstlicher Intelligenz zum Angriff sicherheitskritischer CPS** <br>
 - Detailierte Modellierung des Stromnetzes von Bremerhaven <br>
 - Aufbau einer Capture-The-Flag Architektur mit RL-Agenten, die das Stromnetz entweder angreifen oder verteidigen sollen
 
-3. **AR/VR:** ...
-4. **Android-App:** ...
+**3. AR/VR:** ...
+**4. Android-App:** ...
 
 **2015-2018**: Bachelor of Science, Informatik <br>
 [Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
