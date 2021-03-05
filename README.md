@@ -36,6 +36,7 @@ Abschlussnote: 1,56
 
 ### im Masterstudium:
 
+
 **1. Masterarbeit: Learn to Imitate - A Framework for Exploring Imitation Learning** <br>
 - Trainieren eines Roboters in typischen Haushaltsszenarien innerhalb der "MuJoCo"-Simulationsumgebung <br>
 - Einsatz von Reinforcement Learning (RL) und Imitation Learning (IL) Methoden
@@ -55,7 +56,8 @@ Abschlussnote: 1,56
 - Entwicklung einer kleinen Android-App, die dem Nutzer basierend auf zuvor ausgewählten verfügbaren Zutaten Rezepte aus einer API vorschlägt
 - Nach der Auswahl erhält der Nutzer zudem Informationen zur Zubereitung sowie Bewertungen des Gerichtes von anderen Nutzern
 - Java, Android
--
+
+
 ### im Bachelorstudium:
 
 **1. Bachelorarbeit: Recognition of Convenient Photos in a Personal Photo Collection** <br>
