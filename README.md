@@ -24,9 +24,10 @@ Abschlussnote: 1,3 <br>
 - Python, Tensorflow, Tensorboard, OpenCV
 
 **2. Projektgruppe: Adversarial Resilience Learning: Einsatz von künstlicher Intelligenz zum Angriff sicherheitskritischer CPS** <br>
+- 1-jähriges Projekt mit einer Gruppe von 10 (Wirtschafts)-informatiker/-innen
 - Detailierte Modellierung des Stromnetzes von Bremerhaven <br>
 - Aufbau einer Capture-The-Flag Architektur mit RL-Agenten, die das Stromnetz entweder angreifen oder verteidigen sollen
-- Python, PyTorch, Tensorflow, Tensorboard
+- Python, PyTorch, Tensorflow, Tensorboard, Scrum
 
 **3. cARstle:** <br>
 - Entwicklung eines kleinen AR-basierten Spiels für Android, in dem die Spieler Ressourcen in der Umgebung einsammeln können, um ihre Burg aufzuwerten und diese anschließend gegen andere Spieler zu verteidigen
@@ -53,7 +54,10 @@ Abschlussnote: 1,56
 - Anwendung von OpenCV-Methoden, um Merkmale ästhetischer Bilder aus diesen zu entfernen und so mehr Varianz in einem Datensatz zu schaffen
 - Python, OpenCV
 
-**4.
+**4. Softwareprojekt** <br>
+- 1-jähriges Projekt mit einer Gruppe von 8 (Wirtschafts)-informatiker/-innen
+- Entwicklung einer vollständigen Brettspiel-Adaptation von "Imhotep" mit Server/Client-Architektur
+- Java, Scrum
 
 **2012-2014: Studium Bauingenieurwesen** <br>
 [Technische Universität Braunschweig](https://www.tu-braunschweig.de/) <br>
