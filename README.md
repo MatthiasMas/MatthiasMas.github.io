@@ -22,7 +22,7 @@ Trainieren eines Roboters in typischen Haushaltsszenarien innerhalb der "MuJoCo"
 Einsatz von Reinforcement Learning (RL) und Imitation Learning (IL) Methoden
 
 2. **Projektgruppe: Adversarial Resilience Learning: Einsatz von künstlicher Intelligenz zum Angriff sicherheitskritischer CPS** <br>
-Detailierte Modellierung des Stromnetzes von Bremerhaven
+Detailierte Modellierung des Stromnetzes von Bremerhaven <br>
 Aufbau einer Capture-The-Flag Architektur mit RL-Agenten, die das Stromnetz entweder angreifen oder verteidigen sollen
 
 3. **AR/VR: ...
