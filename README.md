@@ -1,5 +1,16 @@
 # Matthias Maszuhn
 
+Artillerieweg 42A
+26129 Oldenburg
+Tel:
+E-Mail: [matthias.maszuhn@googlemail.com](matthias.maszuhn@googlemail.com)
+Geboren am 10.08.1993 in Dinslaken
+Staatsangehörigkeit: Deutsch
+Ledig
+Github:
+Linkedin:
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MatthiasMas/MatthiasMas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
