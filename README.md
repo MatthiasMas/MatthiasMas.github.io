@@ -34,7 +34,7 @@ Abschlussnote: 1,56
 
 ## Projekte
 
-# im Masterstudium:
+### im Masterstudium:
 
 **1. Masterarbeit: Learn to Imitate - A Framework for Exploring Imitation Learning** <br>
 - Trainieren eines Roboters in typischen Haushaltsszenarien innerhalb der "MuJoCo"-Simulationsumgebung <br>
@@ -56,7 +56,7 @@ Abschlussnote: 1,56
 - Nach der Auswahl erhält der Nutzer zudem Informationen zur Zubereitung sowie Bewertungen des Gerichtes von anderen Nutzern
 - Java, Android
 -
-# im Bachelorstudium:
+### im Bachelorstudium:
 
 **1. Bachelorarbeit: Recognition of Convenient Photos in a Personal Photo Collection** <br>
 - Trainieren eines neuronalen Netzes, um rein zweckmäßig aufgenommene Bilder (z.B. gescannte Dokumente) von ästhetischen Bildern zu unterscheiden
