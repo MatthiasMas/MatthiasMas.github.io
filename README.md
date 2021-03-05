@@ -18,6 +18,24 @@ Schwerpunkt: Künstliche Intelligenz <br>
 [Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
 Abschlussnote: 1,3 <br>
 
+
+
+**2015-2018: Bachelor of Science, Informatik** <br>
+[Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
+Abschlussnote: 1,56
+
+
+
+**2012-2014: Studium Bauingenieurwesen** <br>
+[Technische Universität Braunschweig](https://www.tu-braunschweig.de/) <br>
+
+**2010-2012: Oberstufe und Abitur** <br>
+[Ubbo-Emmius-Gymnasium](https://www.ueg-leer.de/) in 26789 Leer
+
+## Projekte
+
+# im Masterstudium:
+
 **1. Masterarbeit: Learn to Imitate - A Framework for Exploring Imitation Learning** <br>
 - Trainieren eines Roboters in typischen Haushaltsszenarien innerhalb der "MuJoCo"-Simulationsumgebung <br>
 - Einsatz von Reinforcement Learning (RL) und Imitation Learning (IL) Methoden
@@ -37,10 +55,8 @@ Abschlussnote: 1,3 <br>
 - Entwicklung einer kleinen Android-App, die dem Nutzer basierend auf zuvor ausgewählten verfügbaren Zutaten Rezepte aus einer API vorschlägt
 - Nach der Auswahl erhält der Nutzer zudem Informationen zur Zubereitung sowie Bewertungen des Gerichtes von anderen Nutzern
 - Java, Android
-
-**2015-2018: Bachelor of Science, Informatik** <br>
-[Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
-Abschlussnote: 1,56
+-
+# im Bachelorstudium:
 
 **1. Bachelorarbeit: Recognition of Convenient Photos in a Personal Photo Collection** <br>
 - Trainieren eines neuronalen Netzes, um rein zweckmäßig aufgenommene Bilder (z.B. gescannte Dokumente) von ästhetischen Bildern zu unterscheiden
@@ -58,11 +74,3 @@ Abschlussnote: 1,56
 - 1-jähriges Projekt mit einer Gruppe von 8 (Wirtschafts)-informatiker/-innen
 - Entwicklung einer vollständigen Brettspiel-Adaptation von "Imhotep" mit Server/Client-Architektur
 - Java, Scrum
-
-**2012-2014: Studium Bauingenieurwesen** <br>
-[Technische Universität Braunschweig](https://www.tu-braunschweig.de/) <br>
-
-**2010-2012: Oberstufe und Abitur** <br>
-[Ubbo-Emmius-Gymnasium](https://www.ueg-leer.de/) in 26789 Leer
-
-
