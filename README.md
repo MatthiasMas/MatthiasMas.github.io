@@ -1,22 +1,22 @@
 # Matthias Maszuhn
 
-Artillerieweg 42A
+Artillerieweg 42A <br>
 
-26129 Oldenburg
+26129 Oldenburg <br>
 
-Tel:
+Tel: <br>
 
-E-Mail: <matthias.maszuhn@googlemail.com>
+E-Mail: <matthias.maszuhn@googlemail.com> <br>
 
-Geboren am 10.08.1993 in Dinslaken
+Geboren am 10.08.1993 in Dinslaken <br>
 
-Staatsangehörigkeit: Deutsch
+Staatsangehörigkeit: Deutsch <br>
 
-Ledig
+Ledig <br>
 
-Github:
+Github: <br>
 
-Linkedin:
+LinkedIn: <br>
 
 
 ## Welcome to GitHub Pages
