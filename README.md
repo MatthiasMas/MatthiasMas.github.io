@@ -8,7 +8,6 @@ E-Mail: <matthias.maszuhn@googlemail.com> <br>
 Geboren am 10.08.1993 in Dinslaken <br>
 Staatsangehörigkeit: Deutsch <br>
 Ledig <br>
-Github: <br>
 LinkedIn: [Matthias Maszuhn](https://www.linkedin.com/in/matthias-maszuhn-611332207/)<br>
 
 
@@ -53,14 +52,7 @@ Abschlussnote: 1,56
 - Entwicklung eines kleinen AR-basierten Spiels für Android, in dem die Spieler Ressourcen in der Umgebung einsammeln können, um ihre Burg aufzuwerten und diese anschließend gegen andere Spieler zu verteidigen
 - Unity, C#, ARCore
 
-
-https://user-images.githubusercontent.com/23128878/110655378-4cabdb80-81bf-11eb-8da7-a775b36bcff3.mp4
-
-
-
-
-
-**4. PersonalChef:** https://user-images.githubusercontent.com/23128878/110605585-8f52c100-8189-11eb-8618-320fa7f2f0b6.mp4 <br>
+**4. PersonalChef:** <br>
 - Entwicklung einer kleinen Android-App, die dem Nutzer basierend auf zuvor ausgewählten verfügbaren Zutaten Rezepte aus einer API vorschlägt
 - Nach der Auswahl erhält der Nutzer zudem Informationen zur Zubereitung sowie Bewertungen des Gerichtes von anderen Nutzern
 - Java, Android
