@@ -3,7 +3,6 @@
 
 Artillerieweg 42A <br>
 26129 Oldenburg <br>
-Tel: <br>
 E-Mail: <matthias.maszuhn@googlemail.com> <br>
 Geboren am 10.08.1993 in Dinslaken <br>
 Staatsangehörigkeit: Deutsch <br>
