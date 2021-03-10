@@ -53,9 +53,7 @@ Abschlussnote: 1,56
 - Entwicklung eines kleinen AR-basierten Spiels für Android, in dem die Spieler Ressourcen in der Umgebung einsammeln können, um ihre Burg aufzuwerten und diese anschließend gegen andere Spieler zu verteidigen
 - Unity, C#, ARCore
 
-
-
-**4. PersonalChef:** <br>
+**4. PersonalChef:** https://user-images.githubusercontent.com/23128878/110605585-8f52c100-8189-11eb-8618-320fa7f2f0b6.mp4 <br>
 - Entwicklung einer kleinen Android-App, die dem Nutzer basierend auf zuvor ausgewählten verfügbaren Zutaten Rezepte aus einer API vorschlägt
 - Nach der Auswahl erhält der Nutzer zudem Informationen zur Zubereitung sowie Bewertungen des Gerichtes von anderen Nutzern
 - Java, Android
