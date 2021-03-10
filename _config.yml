@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
 title: Matthias Maszuhn CV
-logo: /foto.png
+logo: /assets/foto.png
+
+theme: jekyll-theme-minimal
