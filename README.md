@@ -76,3 +76,18 @@ Abschlussnote: 1,56
 - 1-jähriges Projekt mit einer Gruppe von 8 (Wirtschafts)-informatiker/-innen
 - Entwicklung einer vollständigen Brettspiel-Adaptation von "Imhotep" mit Server/Client-Architektur
 - Java, Scrum
+
+**5. Mole-Simulator** <br>
+- Ein Maulwurf wird vom Spieler mit Code-Befehlen durch ein Labyrinth navigiert
+- Java
+
+## IT & Programmierkenntnisse
+- Python, Java, C#
+- HTML, CSS, Javascript, PHP
+- OpenCV, Tensorflow
+- Unity, MS Office Programme
+
+## Sprachkenntnisse
+- Deutsch (Muttersprache)
+- Englisch (C1-Niveau)
+- Spanisch (A2-Niveau)
