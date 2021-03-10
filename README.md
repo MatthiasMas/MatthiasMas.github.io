@@ -8,7 +8,7 @@ Geboren am 10.08.1993 in Dinslaken <br>
 Staatsangehörigkeit: Deutsch <br>
 Ledig <br>
 Github: <br>
-LinkedIn: <br>
+LinkedIn: [Matthias Maszuhn](https://www.linkedin.com/in/matthias-maszuhn-611332207/)<br>
 
 
 ## Ausbildung
