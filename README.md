@@ -49,7 +49,7 @@ Abschlussnote: 1,56
 - Aufbau einer Capture-The-Flag Architektur mit RL-Agenten, die das Stromnetz entweder angreifen oder verteidigen sollen
 - Python, PyTorch, Tensorflow, Tensorboard, Scrum
 
-**3. cARstle:** [Video] (https://user-images.githubusercontent.com/23128878/110604780-bb217700-8188-11eb-9d50-8d45c58c97a4.mp4) <br>
+**3. cARstle:** https://user-images.githubusercontent.com/23128878/110604780-bb217700-8188-11eb-9d50-8d45c58c97a4.mp4 <br>
 - Entwicklung eines kleinen AR-basierten Spiels für Android, in dem die Spieler Ressourcen in der Umgebung einsammeln können, um ihre Burg aufzuwerten und diese anschließend gegen andere Spieler zu verteidigen
 - Unity, C#, ARCore
 
