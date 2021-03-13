@@ -15,7 +15,7 @@ LinkedIn: [Matthias Maszuhn](https://www.linkedin.com/in/matthias-maszuhn-611332
 **2018-2021: Master of Science, Informatik** <br>
 Schwerpunkt: Künstliche Intelligenz <br>
 [Carl von Ossietzky Universität Oldenburg](https://uol.de/) <br>
-Abschlussnote: 1,3 <br>
+voraussichtliche Abschlussnote: 1,3 <br>
 
 
 
@@ -63,6 +63,12 @@ allowfullscreen></iframe>
 - Entwicklung einer kleinen Android-App, die dem Nutzer basierend auf zuvor ausgewählten verfügbaren Zutaten Rezepte aus einer API vorschlägt
 - Nach der Auswahl erhält der Nutzer zudem Informationen zur Zubereitung sowie Bewertungen des Gerichtes von anderen Nutzern
 - Java, Android
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/YjV-m2Lqtvc" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 
 ### im Bachelorstudium:
